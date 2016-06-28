@@ -23,13 +23,13 @@
         "background": "http://i.imgur.com/HG8mqaM.png",
         "booth": "",
         "icons": {
-            "admin": "",
-            "ambassador": "",
-            "bouncer": "http://danishdragon.com/plugdj/iconbouncer.png",
-            "cohost": "http://danishdragon.com/plugdj/icontest.png",
-            "residentdj": "http://danishdragon.com/plugdj/icondj.png",
-            "host": "http://danishdragon.com/plugdj/iconhost.png",
-            "manager": "http://danishdragon.com/plugdj/iconmanager.png"
+            "admin": "http://i.imgur.com/CQPycsB.png",
+            "ambassador": "http://i.imgur.com/BuHChjx.png",
+            "bouncer": "http://i.imgur.com/45c4Wsq.png",
+            "cohost": "http://i.imgur.com/gQpXfKq.png",
+            "residentdj": "http://i.imgur.com/RHZz8BU.png",
+            "host": "http://i.imgur.com/gQpXfKq.png",
+            "manager": "http://i.imgur.com/0g3zAK1.png"
         },
         "playback": ""
     },
