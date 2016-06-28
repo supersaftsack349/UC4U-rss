@@ -3,6 +3,7 @@
     "author": "Willfree",
     "icon": "http://i.imgur.com/1f9YwLA.png",
     "css": null,
+	
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
