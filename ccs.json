@@ -1,7 +1,7 @@
 {
     "room": "Uncopy4You [EDM]",
     "author": "Willfree",
-    "icon": null,
+    "icon": "http://i.imgur.com/1f9YwLA.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
@@ -20,8 +20,8 @@
         "cohost": "#50394c",
         "rdj": "#d5f4e6",
         "host": "#50394c",
-        "manager": "#618685"
-        "subscriber": null,
+        "manager": "#618685",
+		"subscriber": null,
         "silversubscriber": null,
         "friend": null,
         "user": null
@@ -35,9 +35,9 @@
         "cohost": "http://i.imgur.com/gQpXfKq.png",
         "rdj": "http://i.imgur.com/RHZz8BU.png",
         "host": "http://i.imgur.com/gQpXfKq.png",
-        "manager": "http://i.imgur.com/0g3zAK1.png"
-        "subscriber": null,
-        "silversubscriber": null,
+        "manager": "http://i.imgur.com/0g3zAK1.png",
+		"subscriber": null,
+        "silversubscriber": null
     },
     "emotes": {
     	"emote_name": null
