@@ -1,0 +1,45 @@
+{
+    "room": "Uncopy4You [EDM]",
+    "author": "Willfree",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#ffef96",
+        "ambassador": "#fefbd8",
+        "bouncer": "#80ced6",
+        "cohost": "#50394c",
+        "rdj": "#d5f4e6",
+        "host": "#50394c",
+        "manager": "#618685"
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "http://i.imgur.com/HG8mqaM.png",
+        "playback": null,
+        "admin": "http://i.imgur.com/CQPycsB.png",
+        "ambassador": "http://i.imgur.com/BuHChjx.png",
+        "bouncer": "http://i.imgur.com/45c4Wsq.png",
+        "cohost": "http://i.imgur.com/gQpXfKq.png",
+        "rdj": "http://i.imgur.com/RHZz8BU.png",
+        "host": "http://i.imgur.com/gQpXfKq.png",
+        "manager": "http://i.imgur.com/0g3zAK1.png"
+        "subscriber": null,
+        "silversubscriber": null,
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
