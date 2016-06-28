@@ -1,15 +1,15 @@
 {
-    "author": "",
+    "author": "supersaftsack349",
     "colors": {
         "background": "",
         "chat": {
-            "admin": "",
-            "ambassador": "",
-            "bouncer": "",
-            "cohost": "",
-            "residentdj": "",
-            "host": "",
-            "manager": ""
+            "admin": "#3cb371",
+            "ambassador": "#c0fc53",
+            "bouncer": "#378c89",
+            "cohost": "#48d1cc",
+            "residentdj": "#485791",
+            "host": "#48d1cc",
+            "manager": "#5d557f"
         },
         "footer": "",
         "header": ""
@@ -25,11 +25,11 @@
         "icons": {
             "admin": "",
             "ambassador": "",
-            "bouncer": "",
-            "cohost": "",
-            "residentdj": "",
-            "host": "",
-            "manager": ""
+            "bouncer": "http://danishdragon.com/plugdj/iconbouncer.png",
+            "cohost": "http://danishdragon.com/plugdj/icontest.png",
+            "residentdj": "http://danishdragon.com/plugdj/icondj.png",
+            "host": "http://danishdragon.com/plugdj/iconhost.png",
+            "manager": "http://danishdragon.com/plugdj/iconmanager.png"
         },
         "playback": ""
     },
